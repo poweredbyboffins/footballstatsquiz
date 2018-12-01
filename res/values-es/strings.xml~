@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">fanstats</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="language">ID</string>
+    <string name="completed">\n\n\nWell Done \ n \ nLevel Selesai</string>
+    <string name="nextlevel">Next Level</string>      
+    <string name="info">เวลา 60s จำกัด 5 คำตอบที่ไม่ถูกต้องได้รับอนุญาต: </string>
+    <string name="timeout">\n\nTimeout\n\n</string> 
+    <string name="restart">Restart</string> 
+    <string name="play">bermain</string> 
+
+</resources>

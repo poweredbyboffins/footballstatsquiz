@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Football Stats Quiz - Premier League</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="language">EN</string>
+    <string name="completed">\n\n\nWell Done \n\nLevel Completed</string>
+    <string name="nextlevel">Next Level</string>      
+    <string name="info">Time limit 60s, 3 wrong answers allowed:  </string>
+    <string name="timeout">\n\nTimeout\n\n</string> 
+    <string name="restart">Restart</string> 
+    <string name="play">Play</string> 
+    <string name="unlucky">Unlucky \nyou have used up your 3 lives\n\nPlease try again</string>
+    <string name="score">Score</string> 
+    <string name="pubhs">Publish High Score</string> 
+    <string name="title"><b>Football Stats Quiz</b></string> 
+    
+    
+
+
+</resources>

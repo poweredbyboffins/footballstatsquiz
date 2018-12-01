@@ -1,0 +1,33 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bnsnsports.fanstats.FrontActivity"
+    android:background="@drawable/back"
+    tools:ignore="MergeRootFrame" >
+<RelativeLayout 
+    android:id="@+id/rlay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="192dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="@string/info" />
+
+    <TextView
+        android:id="@+id/timerTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/textView1"
+        android:textColor="@color/black"
+        android:text="0"
+        android:textSize="20sp" />
+    
+ </RelativeLayout>   
+</FrameLayout>
+
+    
